@@ -2,7 +2,7 @@
 my-fristrepo
 
 ## my fav hobby
-'playing games' 
+' playing games ' 
 
-'watching anime'
+' watching anime '
 

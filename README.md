@@ -6,4 +6,3 @@ playing games
 
  
  watching anime
-
